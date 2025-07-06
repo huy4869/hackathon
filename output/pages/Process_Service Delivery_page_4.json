@@ -1,0 +1,10 @@
+{
+  "text": "QMS \nClassification :  Internal \nOwner :  Delivery Center \nCompany  :  \n \nService Delivery Process \nQMS/PR_SD001 \nVersion: 1.0 \n \n \n  \nPage 4/10 \nList of Tables and Figures \n \nTable 1.1 – Definitions, Acronyms, and Abbreviations .................................................................... 5 \nTable 1.2 – References ............................................................................................................... 5 \nTable 2.1 - Process characteristics ............................................................................................... 6 \nTable 2.2 – Steps and tasks ........................................................................................................ 9 \nTable 2.3 – Process records ...................................................................................................... 10 \n \n \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 4",
+      "markdown": "| XXXX-XXXX-XXX            | X   | QMS   | None         | Classification : Internal   |\n|                          |     |       |              | Owner : Delivery Center     |\n|                          |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:-------------------------|:----|:------|:-------------|:----------------------------|\n| Service Delivery Process |     |       |              |                             |\n| QMS/PR_SD001             |     |       | Version: 1.0 |                             |"
+    }
+  ],
+  "images": []
+}

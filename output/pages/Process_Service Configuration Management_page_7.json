@@ -1,0 +1,43 @@
+{
+  "text": "QMS \nClassification  : Internal \nOwner  : Delivery Center \nCompany  :  \n \nService Configuration Management Process \nQMS/PR_SCM001 \nVersion: 1.0 \n \n \n  \nPage 7/9 \n \n2.2 WORKFLOW \n \n \nFigure 2.1 - Process workflow \n \nStart \nPlan & Setup CM \nControl CM changes \nEnd \nEnd \nservice? \nYes \nNo \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 7",
+      "markdown": "| XXXX-XXXX-XXX                            | X   | QMS   | None         | Classification : Internal   |\n|                                          |     |       |              | Owner : Delivery Center     |\n|                                          |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:-----------------------------------------|:----|:------|:-------------|:----------------------------|\n| Service Configuration Management Process |     |       |              |                             |\n| QMS/PR_SCM001                            |     |       | Version: 1.0 |                             |"
+    }
+  ],
+  "images": [
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAIAAAAAiCAIAAAAYiEZ5AAAAJElEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAKBjAzMiAAGPmfHMAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAHEAAAAmCAIAAAB8l+PIAAAAI0lEQVR4nO3BgQAAAADDoPlTH+AKVQEAAAAAAAAAAAAAAEBnMngAAaN8rYYAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAS0AAAAyCAIAAACGdhpDAAAAQ0lEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACATgOwkAABhksczQAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAUkAAAA4CAIAAAD/4Z0vAAAATUlEQVR4nO3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoLsB2CAAAVpY2XwAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAHEAAAAmCAIAAAB8l+PIAAAAI0lEQVR4nO3BgQAAAADDoPlTH+AKVQEAAAAAAAAAAAAAAEBnMngAAaN8rYYAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJYAAABhCAIAAAC79M8UAAAAQklEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOjLAKrjAAFWdAz2AAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAF0AAAApCAIAAADYoLJDAAAAIklEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAuhos2AABJiJI6wAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAFwAAAApCAIAAAA3Ytl9AAAAIElEQVR4nO3BAQEAAACAkP6v7ggKAAAAAAAAAAAAAIgaLF0AAV6EOk0AAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Configuration Management'"
+    }
+  ]
+}

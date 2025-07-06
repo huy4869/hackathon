@@ -1,0 +1,14 @@
+{
+  "text": "ISMS \nClassification:   Internal \nRisk Management \nOwner:   Information Security Committee \nISMS/PR_RSK001 \nVersion: 5.0 \nCompany:    \n \n \n \n  \nPage 6/18 \n4. \n ISO 27001:2022 Information \ntechnology — Security \ntechniques — Information \nsecurity management systems \n— Requirements \nEN ISO 27001:2022 \nRequirements of Information Security \nManagement System,  \nInternational Organization for \nStandardization \n5. \n Quality Manual \nQMS/PL_QMN001 \nQuality Manual of the \n’s QMS \n6. \n Risk register template \nISMS/PR_RSK001/T001 \n \nTable 1.2 – References \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 6",
+      "markdown": "| None            | None         | Classification: Internal                |\n|                 |              | Owner: Information Security Committee   |\n|                 |              | Company: XXXX-XXXX-XXXX                 |\n|:----------------|:-------------|:----------------------------------------|\n| Risk Management |              |                                         |\n| ISMS/PR_RSK001  | Version: 5.0 |                                         |"
+    },
+    {
+      "caption": "Table on page 6",
+      "markdown": "|   4. | ISO 27001:2022 Information    | EN ISO 27001:2022   | Requirements of Information Security   | None   | None   | None   |\n|      | technology — Security         |                     | Management System,                     |        |        |        |\n|      | techniques — Information      |                     | International Organization for         |        |        |        |\n|      | security management systems   |                     | Standardization                        |        |        |        |\n|      | — Requirements                |                     |                                        |        |        |        |\n|-----:|:------------------------------|:--------------------|:---------------------------------------|:-------|:-------|:-------|\n|    5 | Quality Manual                | QMS/PL_QMN001       | Quality Manual of the                  |        |        | ’s QMS |\n|    6 | Risk register template        | ISMS/PR_RSK001/T001 |                                        |        |        |        |"
+    }
+  ],
+  "images": []
+}

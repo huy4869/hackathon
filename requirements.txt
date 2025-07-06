@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+# llama-cpp-python
+faiss-cpu
+PyMuPDF
+pdfplumber
+pandas
+tqdm
+tabulate
+sentence-transformers
+pytesseract

@@ -1,0 +1,135 @@
+{
+  "text": "QMS \nClassification  : Internal \nOwner  : Delivery Center \nCompany  : \n \nService Management Process \nQMS/PR_SM001 \nVersion: 1.0 \n \n \n  \nPage 13/17 \n2.2.4 MANAGE RESOURCES (3.3) \n \nFigure 2.4 – Manage resources \nStart \nApproved? \nCreate inventory \nDefine resource \nutilization rules \nInventory; \nRules of usage; \n… \nAllocate resource \nApproved\n? \nUpdate inventory \nReceive resource \nrequest \nAdd resource \nService \nends? \nReject \nresource \nYes \nYes \nNo \nNo \nNo \nRelease resources \nYes \nEnd \nSM \nDM \nIT \nDM, \nIT \nSM \nDM \nSM \nDM \nIT \nIT \nSM \nDM \nSM \nIT \nSM, \nDM \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 13",
+      "markdown": "| XXXX-XXXX-XXX              | X   | QMS   | None         | Classification : Internal   |\n|                            |     |       |              | Owner : Delivery Center     |\n|                            |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:---------------------------|:----|:------|:-------------|:----------------------------|\n| Service Management Process |     |       |              |                             |\n| QMS/PR_SM001               |     |       | Version: 1.0 |                             |"
+    }
+  ],
+  "images": [
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJsAAAAqCAIAAAArlb4LAAAAKklEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAANCxAUx0AAHY5ZLrAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAIoAAABLCAIAAAAgUYgiAAAANUlEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPo3eZUAASsHxBQAAAAASUVORK5CYII=",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABYCAIAAAD0opxdAAAAZklEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDOBj4HAAFPnZ7QAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABYCAIAAAD0opxdAAAAZklEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDOBj4HAAFPnZ7QAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAANoAAACHCAIAAAD/b9ClAAAAbUlEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgXwNZeAAB+0liJwAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABSCAIAAABVOb87AAAAYElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC1AShZAAG9/O76AAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAIAAAABLCAIAAAA3cxjrAAAAMklEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP0YcMsAAfu/RYsAAAAASUVORK5CYII=",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABSCAIAAABVOb87AAAAYElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC1AShZAAG9/O76AAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABSCAIAAABVOb87AAAAYElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC1AShZAAG9/O76AAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABSCAIAAABVOb87AAAAYElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC1AShZAAG9/O76AAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAIsAAABLCAIAAADPk+McAAAANUlEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOhuenYAARIw8+0AAAAASUVORK5CYII=",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAALcAAABTCAIAAABS2QFcAAAAQklEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0ZrJSAAG0n3/mAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAnCAIAAAAQFoaWAAAAHElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAA6GIVogABODP7pwAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAnCAIAAAAQFoaWAAAAHElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAA6GIVogABODP7pwAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAmCAIAAAA0iD4NAAAAHElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAOhkUogABUXvwOAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAmCAIAAADbSlUzAAAAG0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAD8GBUUAAFW/sZuAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAmCAIAAAA0iD4NAAAAHElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAOhkUogABUXvwOAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAATQAAABSCAIAAABVOb87AAAAYElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC1AShZAAG9/O76AAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAmCAIAAADbSlUzAAAAG0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAD8GBUUAAFW/sZuAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJsAAAAqCAIAAAArlb4LAAAAKklEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAANCxAUx0AAHY5ZLrAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADcAAABkCAIAAACtoz9IAAAAJ0lEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAC6GEDYAAHZHeqZAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADQAAABbCAIAAACzuDEzAAAAJUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAACAvgY3zwABCwADrgAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADgAAABlCAIAAACX9LdgAAAAKElEQVR4nO3BgQAAAADDoPlTX+EAVQEAAAAAAAAAAAAAAAAAAABAnwFCrQABNSuU/wAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAACwAAABSCAIAAACgzqHnAAAAIklEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAACggwEqmgABdnlqPAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAACwAAABSCAIAAACgzqHnAAAAIklEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAACggwEqmgABdnlqPAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADQAAABaCAIAAAB45OKWAAAAJElEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAA8GDcyAAGlvAmbAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADQAAABbCAIAAACzuDEzAAAAJUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAACAvgY3zwABCwADrgAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAACwAAABSCAIAAACgzqHnAAAAIklEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAACggwEqmgABdnlqPAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAACYAAAAtCAIAAABNmI46AAAAHElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAegMUNwAB4Uh6vAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAADQAAABaCAIAAAB45OKWAAAAJElEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAA8GDcyAAGlvAmbAAAAAElFTkSuQmCC",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAACwAAABSCAIAAACgzqHnAAAAIklEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAACggwEqmgABdnlqPAAAAABJRU5ErkJggg==",
+      "caption": "An illustration, diagram, or image extracted from page 13 of document 'Process_Service Management'"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "text": "QMS \nClassification :  Internal \nOwner :  Delivery Center \nCompany  :  \n \nService Delivery Process \nQMS/PR_SD001 \nVersion: 1.0 \n \n \n  \nPage 7/10 \n2.2 WORKFLOW \n \n \n \nInitiation \nStart \nFinish \nPlanning \nExecution \nMonitoring and controlling \nClosing \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 7",
+      "markdown": "| XXXX-XXXX-XXX            | X   | QMS   | None         | Classification : Internal   |\n|                          |     |       |              | Owner : Delivery Center     |\n|                          |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:-------------------------|:----|:------|:-------------|:----------------------------|\n| Service Delivery Process |     |       |              |                             |\n| QMS/PR_SD001             |     |       | Version: 1.0 |                             |"
+    }
+  ],
+  "images": [
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAi4AAAA4CAIAAABVOOQnAAAAcklEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDODG53AAGG5zAJAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJYAAAAqCAIAAADeazW7AAAAKUlEQVR4nO3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAAAAAAAAAOhmSf4AAQNnnxIAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJYAAAAqCAIAAADeazW7AAAAKUlEQVR4nO3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAAAAAAAAAOhmSf4AAQNnnxIAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAi4AAAA4CAIAAABVOOQnAAAAcklEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDODG53AAGG5zAJAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAi4AAAA4CAIAAABVOOQnAAAAcklEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDODG53AAGG5zAJAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAi0AAAA4CAIAAAC+D18kAAAAcUlEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQDcGbc8AAeTYB/kAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAi0AAAA4CAIAAAC+D18kAAAAcUlEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQDcGbc8AAeTYB/kAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Delivery'"
+    }
+  ]
+}

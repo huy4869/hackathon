@@ -1,0 +1,18 @@
+{
+  "text": "QMS \nClassification  : Internal \nOwner  : Delivery Center \nCompany  : \n \nService Management Process \nQMS/PR_SM001 \nVersion: 1.0 \n \n \n  \nPage 5/17 \n1. INTRODUCTION  \n1.1 PURPOSE \nThis document defines the service management process which is applied to The Company’s services. \n1.2 SCOPE \nThis process is used in service delivery realized at The Company.  \nHowever, in a certain service, the Delivery Manager can decide whether to apply this entire process or \njust a modified version of it or leave it out. It is highly emphasized that all activities tagged as mandatory \nshall not be dropped out by team leader. \n1.3 DEFINITIONS, ACRONYMS AND ABBREVIATIONS \nNo Abbreviations \nDescription \n1. \n SM \nService Manager \n2. \n DM \nDelivery Manager \n3. \n CM \nCompetence Manager \n4. \n HR \nHuman Resource Department \n5. \n HRDC \nHuman Resource Development Committee \n6. \n ISEC \nInformation Security Committee \n7. \n IT \nIT Unit \n8. \n DC \nDelivery Center \n9. \n SALES \nSales and Marketing Unit \n10.  The Company \n \n11.  N/A \nNot Applicable \nTable 1.1 – Definitions, Acronyms, and Abbreviations \n \n1.4 REFERENCES \nNo Document \nCode \nDescription \n1. \n Process_Service Configuration \nManagement \nQMS/PR_SCM001 \nConfiguration Management \n2. \n Process_Service Delivery \nQMS/PR_SD001 \nService Delivery  \nTable 1.2 – References \n \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 5",
+      "markdown": "| XXXX-XXXX-XXX              | X   | QMS   | None         | Classification : Internal   |\n|                            |     |       |              | Owner : Delivery Center     |\n|                            |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:---------------------------|:----|:------|:-------------|:----------------------------|\n| Service Management Process |     |       |              |                             |\n| QMS/PR_SM001               |     |       | Version: 1.0 |                             |"
+    },
+    {
+      "caption": "Table on page 5",
+      "markdown": "|   No | Abbreviations   | Description                          |\n|-----:|:----------------|:-------------------------------------|\n|    1 | SM              | Service Manager                      |\n|    2 | DM              | Delivery Manager                     |\n|    3 | CM              | Competence Manager                   |\n|    4 | HR              | Human Resource Department            |\n|    5 | HRDC            | Human Resource Development Committee |\n|    6 | ISEC            | Information Security Committee       |\n|    7 | IT              | IT Unit                              |\n|    8 | DC              | Delivery Center                      |\n|    9 | SALES           | Sales and Marketing Unit             |\n|   10 | The Company     | XXXX-XXXX-XXXX                       |\n|   11 | N/A             | Not Applicable                       |"
+    },
+    {
+      "caption": "Table on page 5",
+      "markdown": "|   No | Document                      | Code          | Description              |\n|-----:|:------------------------------|:--------------|:-------------------------|\n|    1 | Process_Service Configuration | QMS/PR_SCM001 | Configuration Management |\n|      | Management                    |               |                          |\n|    2 | Process_Service Delivery      | QMS/PR_SD001  | Service Delivery         |"
+    }
+  ],
+  "images": []
+}

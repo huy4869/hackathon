@@ -1,0 +1,18 @@
+{
+  "text": "QMS \nClassification  : Internal \nOwner  : Delivery Center \nCompany  :  \n \nService Configuration Management Process \nQMS/PR_SCM001 \nVersion: 1.0 \n \n \n  \nPage 5/9 \n1. INTRODUCTION  \n1.1 PURPOSE \nThis document describes the service configuration management process. \n1.2 SCOPE \nThis process is used in service management realized at \n. \n  \nHowever, in a particular service, the service manager or the delivery manager can decide whether to \napply this entire process or just a modified version to the service, or leave it out. \n1.3 DEFINITIONS, ACRONYMS, AND ABBREVIATIONS \nNo \nAbbreviations \nDescription \n1. \n CM \nConfiguration Management  \n2. \n CO \nConfiguration Officer \n3. \n DM \nDelivery Manager \n4. \n CCB \nConfiguration Control Board \n5. \n DC \nDelivery Center \n6. \n CI \nConfiguration Item \n7. \n CIs \nConfiguration Items \n8. \n CSCI \nComputer Software Configuration Item \n9. \n N/A \nNot Applicable \nTable 1.1 – Definitions, Acronyms, and Abbreviations \n \n1.4 REFERENCES \nNo \nDocument \nCode \nDescription \n1. \n Template Access Register \nQMS/PR_SCM001/T001 \nAccess right registers \n2. \n Environment Configuration \nQMS/PR_SCM001/T002 \nSoftware/Hardware configuration \n3. \n Guideline Service Configuration \nManagement Process  \nQMS/PR_SCM001/G001 \nGuideline \nTable 1.2 – References \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 5",
+      "markdown": "| XXXX-XXXX-XXX                            | X   | QMS   | None         | Classification : Internal   |\n|                                          |     |       |              | Owner : Delivery Center     |\n|                                          |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:-----------------------------------------|:----|:------|:-------------|:----------------------------|\n| Service Configuration Management Process |     |       |              |                             |\n| QMS/PR_SCM001                            |     |       | Version: 1.0 |                             |"
+    },
+    {
+      "caption": "Table on page 5",
+      "markdown": "|   No | Abbreviations   | Description                          |\n|-----:|:----------------|:-------------------------------------|\n|    1 | CM              | Configuration Management             |\n|    2 | CO              | Configuration Officer                |\n|    3 | DM              | Delivery Manager                     |\n|    4 | CCB             | Configuration Control Board          |\n|    5 | DC              | Delivery Center                      |\n|    6 | CI              | Configuration Item                   |\n|    7 | CIs             | Configuration Items                  |\n|    8 | CSCI            | Computer Software Configuration Item |\n|    9 | N/A             | Not Applicable                       |"
+    },
+    {
+      "caption": "Table on page 5",
+      "markdown": "|   No | Document                        | Code               | Description                     |\n|-----:|:--------------------------------|:-------------------|:--------------------------------|\n|    1 | Template Access Register        | QMS/PR_SCM001/T001 | Access right registers          |\n|    2 | Environment Configuration       | QMS/PR_SCM001/T002 | Software/Hardware configuration |\n|    3 | Guideline Service Configuration | QMS/PR_SCM001/G001 | Guideline                       |\n|      | Management Process              |                    |                                 |"
+    }
+  ],
+  "images": []
+}

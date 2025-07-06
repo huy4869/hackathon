@@ -1,0 +1,91 @@
+{
+  "text": "QMS \nClassification  : Internal \nOwner  : Delivery Center \nCompany  : \n \nService Management Process \nQMS/PR_SM001 \nVersion: 1.0 \n \n \n  \nPage 7/17 \n2.2 WORKFLOW \n2.2.1 GENERAL SERVICE MANAGEMENT \n \nFigure 2.1 – General Service management process \n \nStep \nTask \nPerson \nin \ncharge \nInput \nOutput \nTemplates \n1 \nReceive service request \nDC Head \nCustomer official \nrequest for service \nService request \nand its related \ncriteria \nN/A \n2 \nGo/NoGo decision \nDC Head \nService request and \nits related criteria. \nStaff & resource \nstatus \nRequest \nacceptance or \nrejection \nconfirmation. \nIn case of \nacceptance, SM \nand DM must be \nFree form for \nrejection/acceptan\nce confirmation. \n \n’s SOW \ntemplates & \nexamples for \nStart \nGo/No-\nOfficial client \nrequest \nManage \nstaffing & \nplanning \nSM, \nDM, \nCM, \nHR, \nHRDC \nManage quality \n& performance \nSM, \nDM, \nIT, \nISEC \nManage \nresources \nManage \nInfoSec \nSM, \nDM, \nCM, \nSM, \nDM, \nIT \nDC Head \nDC Head \nReceive service \nrequest \nEnd Service \nNo \nYes \nDC head  \nScope of \nWork \nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX\nXXX-XXX",
+  "tables": [
+    {
+      "caption": "Table on page 7",
+      "markdown": "| XXXX-XXXX-XXX              | X   | QMS   | None         | Classification : Internal   |\n|                            |     |       |              | Owner : Delivery Center     |\n|                            |     |       |              | Company : XXXX-XXXX-XXXX    |\n|:---------------------------|:----|:------|:-------------|:----------------------------|\n| Service Management Process |     |       |              |                             |\n| QMS/PR_SM001               |     |       | Version: 1.0 |                             |"
+    },
+    {
+      "caption": "Table on page 7",
+      "markdown": "|   Step | Task                    |         | Person   |    | Input                 | Output          | Templates          |\n|-------:|:------------------------|:--------|:---------|:---|:----------------------|:----------------|:-------------------|\n|        |                         |         | in       |    |                       |                 |                    |\n|        |                         |         | charge   |    |                       |                 |                    |\n|      1 | Receive service request | DC Head |          |    | Customer official     | Service request | N/A                |\n|        |                         |         |          |    | request for service   | and its related |                    |\n|        |                         |         |          |    |                       | criteria        |                    |\n|      2 | Go/NoGo decision        | DC Head |          |    | Service request and   | Request         | Free form for      |\n|        |                         |         |          |    | its related criteria. | acceptance or   | rejection/acceptan |\n|        |                         |         |          |    | Staff & resource      | rejection       | ce confirmation.   |\n|        |                         |         |          |    | status                | confirmation.   | ’s SOW             |\n|        |                         |         |          |    |                       | In case of      | templates &        |\n|        |                         |         |          |    |                       | acceptance, SM  | examples for       |\n|        |                         |         |          |    |                       | and DM must be  |                    |"
+    }
+  ],
+  "images": [
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAIYAAAAmCAIAAACOB3QoAAAAJklEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAgG4GO9IAAdnzR8wAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAF8AAAA1CAIAAACoQaCeAAAAJklEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAoHMDOzYAAaJfmxIAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAK4AAABhCAIAAADA0A3YAAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB6N8YrAAFcDs2rAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAALcAAABtCAIAAABsqWeBAAAAUUlEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6GuouAAF3RnOXAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAE0AAAC1CAIAAACVquWTAAAAQElEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgewOkCAABogxapgAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAMAAAABuCAIAAAD+qIvOAAAAVElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC9AffuAAGp1OUQAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAEYAAACeCAIAAAAAIeuRAAAAN0lEQVR4nO3BMQEAAADCoPVPbQdvoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6DKCOgABjaIApQAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAANEAAABuCAIAAAA2xGEYAAAAWklEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDODQ3nAAGlEurzAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAMIAAABrCAIAAACqkMpAAAAAU0lEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL0Y860AAVrY7eQAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABwCAIAAAAypqHQAAAAL0lEQVR4nO3BMQEAAADCoPVPbQZ/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoNsAXvAAAVuLVlQAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAEMAAACNCAIAAABjSlDgAAAAM0lEQVR4nO3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKCDAW9CAAED+vnJAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJQAAAA0CAIAAADjQoZtAAAALklEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAADozABaZAAB1NkEXQAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAL8AAAA6CAIAAABu9R86AAAAN0lEQVR4nO3BMQEAAADCoPVP7WMMoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6AaCDAABDsCm6QAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAANIAAABjCAIAAABhbcnFAAAAVElEQVR4nO3BgQAAAADDoPlT3+AEVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEDfAPQFAAHNLr4ZAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAALYAAAAlCAIAAABgYIS+AAAAK0lEQVR4nO3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAAAAAAAAAACgtwFPDwAB/XeR6QAAAABJRU5ErkJggg==",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAEgAAAA4CAIAAADRrSnRAAAAI0lEQVR4nO3BgQAAAADDoPlTn+AGVQEAAAAAAAAAAAAAAB0DL3gAAUF2lEQAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAEgAAAA4CAIAAADRrSnRAAAAI0lEQVR4nO3BgQAAAADDoPlTn+AGVQEAAAAAAAAAAAAAAB0DL3gAAUF2lEQAAAAASUVORK5CYII=",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAJwAAAApCAIAAABP3dfcAAAAKklEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAKAPA0sdAAGC/wuGAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    },
+    {
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAK4AAABhCAIAAADA0A3YAAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB6N8YrAAFcDs2rAAAAAElFTkSuQmCC",
+      "caption": "Diagram about workflow extracted from page 7 of document 'Process_Service Management'"
+    }
+  ]
+}
